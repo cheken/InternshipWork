@@ -11,7 +11,7 @@ Good day, Please enter loadshedding doc and kindly find Loadshedding.java and do
 * Once done, type: "Exit" to end program.
 
 # Description:
-This program works according to a loadshedding calendar provided by Eskom via: https://www.capetown.gov.za/Loadshedding1/loadshedding/maps/Load_Shedding_All_Areas_Schedule_and_Map.pdf
+This program works according to a loadshedding calendar provided by Eskom via: https://www.capetown.gov.za/Loadshedding1/loadshedding/maps/Load_Shedding_All_Areas_Schedule_and_Map.pdf.
 The program takes user input in the form of a region between 1 and 16. The program will then access the day of the month and time from the users desktop.
 The code creates the laodshedding calendar and assigns regions to an array of different days.
 It will then search the array according to the user input and day to then display the current schedule for that day.
