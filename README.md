@@ -1,8 +1,9 @@
 # InternshipWork
-Good day, Please enter loadshedding doc and kindly find Loadshedding.java and download to your desktop.
+Good day, Please enter loadshedding doc and kindly find Loadshedding.java and download to your desktop. This assumes you have a zip and java tools on your computer.
 
 # To run the file:
-* First create a folder on your desktop and save the file for easy access.
+* First click on the +code green button and download the repository as a ZIP file.
+* Extract the zip file in a folder and open the folder until you see the Loadshedding.java file and the class file.
 * When in the folder of the saved Loadshedding java file, click on the URL bar at the top where the name of the folder appears and type in'cmd' and hit enter.
 * This accesses the command line prompt while ensuring the pathing is correct.
 * Type in: "javac Loadshedding.java" to access the java compiler.(I've also uploaded the class file)
